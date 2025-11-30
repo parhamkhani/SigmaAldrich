@@ -113,7 +113,7 @@ Commercial use or redistribution without permission is prohibited.
 
 ## 📬 Contact
 
-For technical discussions, consulting, or data engineering inquiries, you can reach me at:
+For technical discussions, consulting, you can reach me at:
 
 - **Email:** parhamkhani.ir@gmail.com
 - **Telegram:** t.me/parhamkhani
